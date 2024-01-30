@@ -1,0 +1,41 @@
+ => 
+[[32m#<Product:0x00007fd0b63c6e08[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mApple[0m[31m[1m"[0m,
+  price: [35m[1m0.199e1[0m,
+  created_at:
+   Tue, 30 Jan 2024 01:50:57.436505000 UTC +00:00,
+  updated_at:
+   Tue, 30 Jan 2024 01:50:57.436505000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fd0b63c6cc8[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mOrange[0m[31m[1m"[0m,
+  price: [35m[1m0.299e1[0m,
+  created_at:
+   Tue, 30 Jan 2024 01:53:32.750284000 UTC +00:00,
+  updated_at:
+   Tue, 30 Jan 2024 01:53:32.750284000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fd0b63c6b88[0m
+  id: [34m[1m3[0m,
+  name: [31m[1m"[0m[31mBanana[0m[31m[1m"[0m,
+  price: [35m[1m0.399e1[0m,
+  created_at:
+   Tue, 30 Jan 2024 01:54:51.506995000 UTC +00:00,
+  updated_at:
+   Tue, 30 Jan 2024 01:54:51.506995000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fd0b63c6a48[0m
+  id: [34m[1m4[0m,
+  name: [31m[1m"[0m[31mGrapes[0m[31m[1m"[0m,
+  price: [35m[1m0.499e1[0m,
+  created_at:
+   Tue, 30 Jan 2024 02:04:52.416427000 UTC +00:00,
+  updated_at:
+   Tue, 30 Jan 2024 02:04:52.416427000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fd0b63c6908[0m
+  id: [34m[1m5[0m,
+  name: [31m[1m"[0m[31mPineapple[0m[31m[1m"[0m,
+  price: [35m[1m0.599e1[0m,
+  created_at:
+   Tue, 30 Jan 2024 02:05:51.709591000 UTC +00:00,
+  updated_at:
+   Tue, 30 Jan 2024 02:05:51.709591000 UTC +00:00[32m>[0m] 
